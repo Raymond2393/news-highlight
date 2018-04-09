@@ -5,7 +5,9 @@ from ..requests import get_sources,get_articles
 
 @main.route('/')
 def index():
-    """View root page function that returns index page and the various news sources"""
+    '''
+    View root page function that returns index page and the various news sources
+    '''
     title = 'Home- Welcome News Highlights Website'
     # Getting the news sources
     news_sources = get_sources('sources')
