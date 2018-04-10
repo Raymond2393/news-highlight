@@ -13,7 +13,7 @@ As a user i would like
 - python3.6
 ## How to use it
 - Must have internet connection
--  Click https://raymond2393.github.io/news-highlight
+
 ## Setup/Installation Requirements
 - internet access
 - $ python3.6 -m venv virtual(install virtual environment)
